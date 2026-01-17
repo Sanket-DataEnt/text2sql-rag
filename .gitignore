@@ -71,3 +71,9 @@ Thumbs.db
 
 
 .claude/*
+
+# Data files
+WikiTableQuestions/
+*.csv
+table_index_dir/
+
